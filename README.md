@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+## 📁 Portfolio
+[포트폴리오 보러가기](https://leebada13.github.io/portfolio)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
